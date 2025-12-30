@@ -1,1 +1,1 @@
-Official Github Org of <span>The TechX Society</span> at UNC
+Official Github Org of <strong>The TechX Society</strong> at UNC
