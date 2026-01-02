@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/TechXWhiteLogo.svg" alt="TechXLogo">
+  <img src="../assets/TechX Github Top.png" alt="TechXLogo">
 </p>
 <br>
 Official Github of <strong>The TechX Society</strong> at UNC
