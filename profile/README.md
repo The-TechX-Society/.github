@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="../assets/TechX Github Top.png" alt="TechXLogo">
 </p>
 <br>
